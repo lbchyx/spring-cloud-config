@@ -1,1 +1,2 @@
-env=prod
+config.env=prod
+config.pwd=123
